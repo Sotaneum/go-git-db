@@ -1,2 +1,2 @@
-# go-git-db
-git를 DB처럼 사용합니다.
+# go-git-files
+git를 file system처럼 사용합니다.
