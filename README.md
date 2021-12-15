@@ -1,2 +1,2 @@
 # go-git-files
-git를 file system처럼 사용합니다.
+git pull/push를 강제합니다.
